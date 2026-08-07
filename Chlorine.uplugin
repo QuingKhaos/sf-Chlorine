@@ -30,6 +30,12 @@
 			"SemVersion": "^2026.3.434"
 		},
 		{
+			"Name": "Silicon",
+			"Enabled": true,
+			"Optional": true,
+			"SemVersion": "^0.1.0"
+		},
+		{
 			"Name": "SML",
 			"Enabled": true,
 			"SemVersion": "^3.12.0"
