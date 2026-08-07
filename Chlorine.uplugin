@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 0,
-	"VersionName": "0.1.0",
-	"SemVersion": "0.1.0",
+	"VersionName": "0.2.0",
+	"SemVersion": "0.2.0",
 	"FriendlyName": "Salt & Chlorine",
 	"Description": "Adds salt, chlorine and more to the base game. Reworks high-speed connector production.",
 	"Category": "Modding",
