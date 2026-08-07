@@ -1,15 +1,15 @@
 {
 	"FileVersion": 3,
-	"Version": 1,
-	"VersionName": "1.0.0",
-	"SemVersion": "1.0.0",
-	"FriendlyName": "###TITLE###",
-	"Description": "###DESC###",
+	"Version": 0,
+	"VersionName": "0.1.0",
+	"SemVersion": "0.1.0",
+	"FriendlyName": "Salt & Chlorine",
+	"Description": "Adds salt, chlorine and more to the base game. Reworks high-speed connector production.",
 	"Category": "Modding",
 	"CreatedBy": "QuingKhaos",
 	"CreatedByURL": "https://github.com/QuingKhaos",
 	"DocsURL": "",
-	"MarketplaceURL": "https://ficsit.app/mod/###NAME###",
+	"MarketplaceURL": "https://ficsit.app/mod/Chlorine",
 	"SupportURL": "https://discord.gg/B3qJBE3M9W",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
@@ -18,12 +18,17 @@
 	"BuiltInInitialFeatureState": "Active",
 	"Modules": [
 		{
-			"Name": "###NAME###",
+			"Name": "Chlorine",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
 	],
 	"Plugins": [
+		{
+			"Name": "KBFL",
+			"Enabled": true,
+			"SemVersion": "^2026.3.434"
+		},
 		{
 			"Name": "SML",
 			"Enabled": true,
