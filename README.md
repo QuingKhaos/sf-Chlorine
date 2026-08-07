@@ -30,6 +30,12 @@ Salt & Chlorine introduces a nice production chain to produce PCBs, which are us
 
 ![Epoxy recipe](https://github.com/QuingKhaos/sf-Chlorine/blob/0.x/.github/images/Recipe_Epoxy.png?raw=true)
 
+### Vinyl Chloride
+
+![Vinyl Chloride recipe](https://github.com/QuingKhaos/sf-Chlorine/blob/0.x/.github/images/Recipe_VinylChloride.png?raw=true)
+
+![Vinyl Plastic recipe](https://github.com/QuingKhaos/sf-Chlorine/blob/0.x/.github/images/Recipe_VinylPlastic.png?raw=true)
+
 ### Ferric Chloride
 
 ![Ferric Chloride recipe](https://github.com/QuingKhaos/sf-Chlorine/blob/0.x/.github/images/Recipe_FerricChloride.png?raw=true)
