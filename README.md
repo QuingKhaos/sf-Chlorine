@@ -6,6 +6,8 @@ Adds salt, chlorine, and other compounds to the game. Changes high-speed connect
 
 Supports the recipe changes from [Silicon](https://ficsit.app/mod/Silicon) and combines them together.
 
+If you need to plan things out, you can use my [custom database](https://github.com/QuingKhaos/KhaosSatisfactoryModelerData) for Satisfactory Modeler.
+
 ## What's in this mod?
 
 Salt & Chlorine introduces a nice production chain to produce PCBs, which are used in high-speed connector production. Chlorine processing is unlocked in tier 7, as some recipes need a blender to be produced.
