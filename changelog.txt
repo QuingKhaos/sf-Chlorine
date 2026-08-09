@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.0
-Date: ????
+Date: 2026-08-09
   Locale:
     - Add partial Chinese translation.
     - Add partial Japanese translation.
