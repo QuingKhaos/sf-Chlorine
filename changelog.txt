@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.3.2
+Date: ????
+  Bugfixes:
+    - Fix semver range for optional Silicon dependency, beause of some Node.js bullshit shenanigans with the caret version range operator.
+---------------------------------------------------------------------------------------------------
 Version: 0.3.1
 Date: 2026-08-09
   Bugfixes:
