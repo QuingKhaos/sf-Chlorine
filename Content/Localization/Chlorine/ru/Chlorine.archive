@@ -1,0 +1,143 @@
+{
+	"FormatVersion": 2,
+	"Namespace": "",
+	"Subnamespaces": [
+		{
+			"Namespace": "Chlorine",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Alternate: Ferric Chloride (HCl)"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "FerricChlorideHCl/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Alternate: Salt Hydrogen Chloride"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "HydrogenChlorideSalt/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chlorine"
+					},
+					"Translation":
+					{
+						"Text": "Хлор"
+					},
+					"Key": "Chlorine/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chlorine Processing"
+					},
+					"Translation":
+					{
+						"Text": "Переработка хлора"
+					},
+					"Key": "ChlorineProcessing/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Epoxy"
+					},
+					"Translation":
+					{
+						"Text": "Эпоксидная смола"
+					},
+					"Key": "Epoxy/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ferric Chloride"
+					},
+					"Translation":
+					{
+						"Text": "Хлорид железа"
+					},
+					"Key": "FerricChloride/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hydrogen Chloride"
+					},
+					"Translation":
+					{
+						"Text": "Хлористый водород"
+					},
+					"Key": "HydrogenChloride/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "PCB"
+					},
+					"Translation":
+					{
+						"Text": "Печатная плата"
+					},
+					"Key": "PCB/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "PCB Substrate"
+					},
+					"Translation":
+					{
+						"Text": "Подложка для печатной платы"
+					},
+					"Key": "PCBSubstrate/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Salt"
+					},
+					"Translation":
+					{
+						"Text": "Соль"
+					},
+					"Key": "Salt/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Vinyl Chloride"
+					},
+					"Translation":
+					{
+						"Text": "Винилхлорид"
+					},
+					"Key": "VinylChloride/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Vinyl Plastic"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "VinylPlastic/Recipe"
+				}
+			]
+		}
+	]
+}

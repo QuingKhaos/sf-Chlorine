@@ -1,0 +1,143 @@
+{
+	"FormatVersion": 2,
+	"Namespace": "",
+	"Subnamespaces": [
+		{
+			"Namespace": "Chlorine",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Alternate: Ferric Chloride (HCl)"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "FerricChlorideHCl/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Alternate: Salt Hydrogen Chloride"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "HydrogenChlorideSalt/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chlorine"
+					},
+					"Translation":
+					{
+						"Text": "氯"
+					},
+					"Key": "Chlorine/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chlorine Processing"
+					},
+					"Translation":
+					{
+						"Text": "氯气加工"
+					},
+					"Key": "ChlorineProcessing/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Epoxy"
+					},
+					"Translation":
+					{
+						"Text": "环氧树脂"
+					},
+					"Key": "Epoxy/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ferric Chloride"
+					},
+					"Translation":
+					{
+						"Text": "氯化铁"
+					},
+					"Key": "FerricChloride/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hydrogen Chloride"
+					},
+					"Translation":
+					{
+						"Text": "氯化氢"
+					},
+					"Key": "HydrogenChloride/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "PCB"
+					},
+					"Translation":
+					{
+						"Text": "PCB"
+					},
+					"Key": "PCB/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "PCB Substrate"
+					},
+					"Translation":
+					{
+						"Text": "PCB 基板"
+					},
+					"Key": "PCBSubstrate/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Salt"
+					},
+					"Translation":
+					{
+						"Text": "盐"
+					},
+					"Key": "Salt/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Vinyl Chloride"
+					},
+					"Translation":
+					{
+						"Text": "氯乙烯"
+					},
+					"Key": "VinylChloride/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Vinyl Plastic"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "VinylPlastic/Recipe"
+				}
+			]
+		}
+	]
+}

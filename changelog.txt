@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: ????
+  Locale:
+    - Add partial Chinese translation.
+    - Add partial Japanese translation.
+    - Add partial Polish translation.
+    - Add partial Russian translation.
+---------------------------------------------------------------------------------------------------
 Version: 0.2.0
 Date: 2026-08-08
   Changes:

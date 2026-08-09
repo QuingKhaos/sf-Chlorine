@@ -1,0 +1,155 @@
+{
+	"FormatVersion": 1,
+	"Namespace": "",
+	"Subnamespaces": [
+		{
+			"Namespace": "Chlorine",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Alternate: Ferric Chloride (HCl)"
+					},
+					"Keys": [
+						{
+							"Key": "FerricChlorideHCl/Recipe",
+							"Path": "/Chlorine/ST_Chlorine.ST_Chlorine"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Alternate: Salt Hydrogen Chloride"
+					},
+					"Keys": [
+						{
+							"Key": "HydrogenChlorideSalt/Recipe",
+							"Path": "/Chlorine/ST_Chlorine.ST_Chlorine"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Chlorine"
+					},
+					"Keys": [
+						{
+							"Key": "Chlorine/Name",
+							"Path": "/Chlorine/ST_Chlorine.ST_Chlorine"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Chlorine Processing"
+					},
+					"Keys": [
+						{
+							"Key": "ChlorineProcessing/Name",
+							"Path": "/Chlorine/ST_Chlorine.ST_Chlorine"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Epoxy"
+					},
+					"Keys": [
+						{
+							"Key": "Epoxy/Name",
+							"Path": "/Chlorine/ST_Chlorine.ST_Chlorine"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Ferric Chloride"
+					},
+					"Keys": [
+						{
+							"Key": "FerricChloride/Name",
+							"Path": "/Chlorine/ST_Chlorine.ST_Chlorine"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Hydrogen Chloride"
+					},
+					"Keys": [
+						{
+							"Key": "HydrogenChloride/Name",
+							"Path": "/Chlorine/ST_Chlorine.ST_Chlorine"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "PCB"
+					},
+					"Keys": [
+						{
+							"Key": "PCB/Name",
+							"Path": "/Chlorine/ST_Chlorine.ST_Chlorine"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "PCB Substrate"
+					},
+					"Keys": [
+						{
+							"Key": "PCBSubstrate/Name",
+							"Path": "/Chlorine/ST_Chlorine.ST_Chlorine"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Salt"
+					},
+					"Keys": [
+						{
+							"Key": "Salt/Name",
+							"Path": "/Chlorine/ST_Chlorine.ST_Chlorine"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Vinyl Chloride"
+					},
+					"Keys": [
+						{
+							"Key": "VinylChloride/Name",
+							"Path": "/Chlorine/ST_Chlorine.ST_Chlorine"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Vinyl Plastic"
+					},
+					"Keys": [
+						{
+							"Key": "VinylPlastic/Recipe",
+							"Path": "/Chlorine/ST_Chlorine.ST_Chlorine"
+						}
+					]
+				}
+			]
+		}
+	]
+}
