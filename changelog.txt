@@ -5,6 +5,7 @@ Date: ????
     - Bump minimun game version.
   Locale:
     - Update recipe name for ferric chloride alternate.
+    - Complete German translations.
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.2
 Date: 2026-08-09

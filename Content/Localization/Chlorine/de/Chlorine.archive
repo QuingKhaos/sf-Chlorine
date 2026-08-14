@@ -1,0 +1,143 @@
+{
+	"FormatVersion": 2,
+	"Namespace": "",
+	"Subnamespaces": [
+		{
+			"Namespace": "Chlorine",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Alternate: Ferric Chloride from HCl"
+					},
+					"Translation":
+					{
+						"Text": "Alternative: Eisenchlorid aus Chlorwasserstoff"
+					},
+					"Key": "FerricChlorideHCl/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Alternate: Salt Hydrogen Chloride"
+					},
+					"Translation":
+					{
+						"Text": "Alternative: Chlorwasserstoff aus Salz"
+					},
+					"Key": "HydrogenChlorideSalt/Recipe"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chlorine"
+					},
+					"Translation":
+					{
+						"Text": "Chlor"
+					},
+					"Key": "Chlorine/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Chlorine Processing"
+					},
+					"Translation":
+					{
+						"Text": "Chlorherstellung"
+					},
+					"Key": "ChlorineProcessing/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Epoxy"
+					},
+					"Translation":
+					{
+						"Text": "Epoxidharz"
+					},
+					"Key": "Epoxy/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Ferric Chloride"
+					},
+					"Translation":
+					{
+						"Text": "Eisenchlorid"
+					},
+					"Key": "FerricChloride/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Hydrogen Chloride"
+					},
+					"Translation":
+					{
+						"Text": "Chlorwasserstoff"
+					},
+					"Key": "HydrogenChloride/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "PCB"
+					},
+					"Translation":
+					{
+						"Text": "PCB"
+					},
+					"Key": "PCB/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "PCB Substrate"
+					},
+					"Translation":
+					{
+						"Text": "PCB Trägermaterial"
+					},
+					"Key": "PCBSubstrate/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Salt"
+					},
+					"Translation":
+					{
+						"Text": "Salz"
+					},
+					"Key": "Salt/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Vinyl Chloride"
+					},
+					"Translation":
+					{
+						"Text": "Vinylchlorid"
+					},
+					"Key": "VinylChloride/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Vinyl Plastic"
+					},
+					"Translation":
+					{
+						"Text": "Polyvinylchlorid (PVC)"
+					},
+					"Key": "VinylPlastic/Recipe"
+				}
+			]
+		}
+	]
+}
