@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 0,
-	"VersionName": "0.3.3",
-	"SemVersion": "0.3.3",
+	"VersionName": "0.4.0",
+	"SemVersion": "0.4.0",
 	"FriendlyName": "Salt & Chlorine",
 	"Description": "Adds salt, chlorine and more to the base game. Reworks high-speed connector production.",
 	"Category": "Modding",
@@ -27,19 +27,19 @@
 		{
 			"Name": "KBFL",
 			"Enabled": true,
-			"SemVersion": "^2026.3.434"
+			"SemVersion": "^2026.3.471"
+		},
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.12.0"
 		},
 		{
 			"Name": "Silicon",
 			"Enabled": true,
 			"Optional": true,
 			"SemVersion": ">=0.1.0"
-		},
-		{
-			"Name": "SML",
-			"Enabled": true,
-			"SemVersion": "^3.12.0"
 		}
 	],
-	"GameVersion": ">=491125"
+	"GameVersion": ">=502094"
 }

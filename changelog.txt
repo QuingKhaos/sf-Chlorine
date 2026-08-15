@@ -1,8 +1,14 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.4.0
+Date: ????
+  Changes:
+    - Bump minimum game version for real.
+    - Bump dependencies.
+---------------------------------------------------------------------------------------------------
 Version: 0.3.3
 Date: 2026-08-14
   Changes:
-    - Bump minimun game version.
+    - Bump minimum game version.
   Locale:
     - Update recipe name for ferric chloride alternate.
     - Complete German translations.
