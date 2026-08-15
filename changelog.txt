@@ -7,6 +7,11 @@ Date: ????
     - Improve LODs for static meshes.
     - Improve texture sizes.
     - Migrate to KDataForge for CDO changes.
+  Locale:
+    - Add partial Dutch translation.
+    - Add partial French translation.
+    - Add partial Turkish translation.
+    - Add partial Ukrainian translation.
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.3
 Date: 2026-08-14
