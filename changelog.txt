@@ -4,6 +4,7 @@ Date: ????
   Changes:
     - Bump minimum game version for real.
     - Bump dependencies.
+    - Improve LODs for static meshes.
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.3
 Date: 2026-08-14
