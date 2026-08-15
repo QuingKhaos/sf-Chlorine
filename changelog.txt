@@ -5,6 +5,7 @@ Date: ????
     - Bump minimum game version for real.
     - Bump dependencies.
     - Improve LODs for static meshes.
+    - Improve texture sizes.
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.3
 Date: 2026-08-14
