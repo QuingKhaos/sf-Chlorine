@@ -1,0 +1,11 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/Manufacturer/Recipe_HighSpeedConnector.Recipe_HighSpeedConnector_C
+    properties:
+      - path: mIngredients
+        op: replace
+        index: 2
+        value:
+          ItemClass: /Chlorine/Resources/PCB/Desc_PCB.Desc_PCB_C
+          Amount: 1
+

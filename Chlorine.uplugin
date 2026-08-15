@@ -25,7 +25,7 @@
 	],
 	"Plugins": [
 		{
-			"Name": "KBFL",
+			"Name": "KDataForge",
 			"Enabled": true,
 			"SemVersion": "^2026.3.471"
 		},
