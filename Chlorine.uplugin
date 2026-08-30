@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 0,
-	"VersionName": "0.4.2",
-	"SemVersion": "0.4.2",
+	"VersionName": "0.5.0",
+	"SemVersion": "0.5.0",
 	"FriendlyName": "Salt & Chlorine",
 	"Description": "Adds salt, chlorine and more to the base game. Reworks high-speed connector production.",
 	"Category": "Modding",
@@ -28,6 +28,11 @@
 			"Name": "KDataForge",
 			"Enabled": true,
 			"SemVersion": "^2026.3.471"
+		},
+		{
+			"Name": "KhaosLib",
+			"Enabled": true,
+			"SemVersion": "^1.3.0"
 		},
 		{
 			"Name": "SML",
